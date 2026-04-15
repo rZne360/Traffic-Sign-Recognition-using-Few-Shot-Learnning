@@ -10,6 +10,8 @@ Siamese Neural Network → for similarity-based classification
 
 The goal is to enable image recognition with very small datasets (few-shot learning), where traditional models fail due to lack of data and annotations.
 
+![Dataset](./images/img-1)
+
 🧠 Idea Behind the Project
 
 Instead of training a heavy classifier on large datasets, this project:
